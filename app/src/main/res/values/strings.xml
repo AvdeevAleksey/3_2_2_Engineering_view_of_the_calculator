@@ -19,4 +19,9 @@
     <string name="button_clear">C</string>
     <string name="button_percent">%</string>
     <string name="button_plus_minus">&#177;</string>
+    <string name="button_MC">MC</string>
+    <string name="button_MR">MR</string>
+    <string name="button_MS">MS</string>
+    <string name="button_M_plus">M+</string>
+    <string name="button_M_minus">M-</string>
 </resources>

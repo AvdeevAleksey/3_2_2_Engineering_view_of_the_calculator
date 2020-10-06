@@ -278,7 +278,7 @@
                 android:onClick="anyButtonClicked"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:textSize="50sp"/>
+                android:textSize="30sp"/>
             <Button
                 android:id="@+id/btnPlusMinusEng"
                 android:layout_weight="1"
@@ -286,7 +286,7 @@
                 android:onClick="anyButtonClicked"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:textSize="50sp"/>
+                android:textSize="30sp"/>
             <Button
                 android:id="@+id/btnPercentEng"
                 android:layout_weight="1"
@@ -294,7 +294,7 @@
                 android:onClick="anyButtonClicked"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:textSize="50sp"/>
+                android:textSize="30sp"/>
             <Button
                 android:id="@+id/btnDivisionEng"
                 android:layout_weight="1"
@@ -304,7 +304,17 @@
                 android:layout_height="wrap_content"
                 android:backgroundTint="#FF9800"
                 android:textColor="#ECECEC"
-                android:textSize="50sp" />
+                android:textSize="30sp" />
+            <Button
+                android:id="@+id/btnMc"
+                android:layout_weight="1"
+                android:text="@string/button_MC"
+                android:onClick="anyButtonClicked"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#FF9800"
+                android:textColor="#ECECEC"
+                android:textSize="30sp" />
         </LinearLayout>
         <LinearLayout
             android:id="@+id/secondRowLayoutEng"
@@ -319,7 +329,7 @@
                 android:onClick="anyButtonClicked"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:textSize="50sp"/>
+                android:textSize="30sp"/>
             <Button
                 android:id="@+id/btnEightEng"
                 android:layout_weight="1"
@@ -327,7 +337,7 @@
                 android:onClick="anyButtonClicked"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:textSize="50sp"/>
+                android:textSize="30sp"/>
             <Button
                 android:id="@+id/btnNineEng"
                 android:layout_weight="1"
@@ -335,7 +345,7 @@
                 android:onClick="anyButtonClicked"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:textSize="50sp"/>
+                android:textSize="30sp"/>
             <Button
                 android:id="@+id/btnMultiplicationEng"
                 android:layout_weight="1"
@@ -346,7 +356,17 @@
                 android:shadowColor="#FF9800"
                 android:backgroundTint="#FF9800"
                 android:textColor="#ECECEC"
-                android:textSize="50sp" />
+                android:textSize="30sp" />
+            <Button
+                android:id="@+id/btnMr"
+                android:layout_weight="1"
+                android:text="@string/button_MR"
+                android:onClick="anyButtonClicked"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#FF9800"
+                android:textColor="#ECECEC"
+                android:textSize="30sp" />
 
         </LinearLayout>
         <LinearLayout
@@ -362,7 +382,7 @@
                 android:onClick="anyButtonClicked"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:textSize="50sp"/>
+                android:textSize="30sp"/>
             <Button
                 android:id="@+id/btnFiveEng"
                 android:layout_weight="1"
@@ -370,7 +390,7 @@
                 android:onClick="anyButtonClicked"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:textSize="50sp"/>
+                android:textSize="30sp"/>
             <Button
                 android:id="@+id/btnSixEng"
                 android:layout_weight="1"
@@ -378,7 +398,7 @@
                 android:onClick="anyButtonClicked"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:textSize="50sp"/>
+                android:textSize="30sp"/>
             <Button
                 android:id="@+id/btnMinusEng"
                 android:layout_weight="1"
@@ -388,7 +408,17 @@
                 android:layout_height="wrap_content"
                 android:backgroundTint="#FF9800"
                 android:textColor="#ECECEC"
-                android:textSize="50sp" />
+                android:textSize="30sp" />
+            <Button
+                android:id="@+id/btnMs"
+                android:layout_weight="1"
+                android:text="@string/button_MS"
+                android:onClick="anyButtonClicked"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#FF9800"
+                android:textColor="#ECECEC"
+                android:textSize="30sp" />
         </LinearLayout>
         <LinearLayout
             android:id="@+id/fourthRowLayoutEng"
@@ -403,7 +433,7 @@
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:textSize="50sp"/>
+                android:textSize="30sp"/>
             <Button
                 android:id="@+id/btnTwoEng"
                 android:layout_weight="1"
@@ -411,7 +441,7 @@
                 android:onClick="anyButtonClicked"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:textSize="50sp"/>
+                android:textSize="30sp"/>
             <Button
                 android:id="@+id/btnThreeEng"
                 android:layout_weight="1"
@@ -419,7 +449,7 @@
                 android:onClick="anyButtonClicked"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:textSize="50sp"/>
+                android:textSize="30sp"/>
             <Button
                 android:id="@+id/btnPlusEng"
                 android:layout_weight="1"
@@ -429,7 +459,17 @@
                 android:layout_height="wrap_content"
                 android:backgroundTint="#FF9800"
                 android:textColor="#ECECEC"
-                android:textSize="50sp" />
+                android:textSize="30sp" />
+            <Button
+                android:id="@+id/btnMPlus"
+                android:layout_weight="1"
+                android:text="@string/button_M_plus"
+                android:onClick="anyButtonClicked"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#FF9800"
+                android:textColor="#ECECEC"
+                android:textSize="30sp" />
         </LinearLayout>
         <LinearLayout
             android:id="@+id/fifthRowLayoutEng"
@@ -444,7 +484,7 @@
                 android:onClick="anyButtonClicked"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:textSize="50sp"/>
+                android:textSize="30sp"/>
             <Button
                 android:id="@+id/btnPointEng"
                 android:layout_weight="1"
@@ -452,7 +492,7 @@
                 android:onClick="anyButtonClicked"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:textSize="50sp"/>
+                android:textSize="30sp"/>
             <Button
                 android:id="@+id/btnSubmitEng"
                 android:layout_weight="1"
@@ -462,7 +502,17 @@
                 android:layout_height="wrap_content"
                 android:backgroundTint="#FF9800"
                 android:textColor="#ECECEC"
-                android:textSize="50sp" />
+                android:textSize="30sp" />
+            <Button
+                android:id="@+id/btnMMinus"
+                android:layout_weight="1"
+                android:text="@string/button_M_minus"
+                android:onClick="anyButtonClicked"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#FF9800"
+                android:textColor="#ECECEC"
+                android:textSize="30sp" />
         </LinearLayout>
 
     </RelativeLayout>
